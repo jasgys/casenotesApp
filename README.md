@@ -13,14 +13,14 @@ Like what we previously mentioned, I'm writing down some of the ideas that we ca
 
 <h1>YGOS Phone App</h1>
 
-  <h2>Building a YGOS phone app on android and iphone platform to serve the following purposes:</h2>
+  <h2>Building a YGOS phone app on android and iphone platform to serve the following purposes</h2>
   
-    <p>1. Maintain relations with Donors, keeping them updated about the ministry, and ideally facilitate easy donation method</p>
-    <p>2. Maintain relations with volunteers, keeping them updated about volunteering opportunities, invitation to volunteer events</p>
-    <p>3. Integrate Casenote Web App into the Phone App so that caseworkers can easily key in casenotes on the go</p>
-    <p>4. Main platform for caseworkers to share event photos with their youths, to facilitate a safer way of disseminating photos</p>
-    <p>5. Main platform for setting casework appointments with youths, and go-to place for youth-friendly web games</p>
-    <p>6. Efficient way of checking curfew for our youths that are in structured intervention programmes</p>
+    <p>Maintain relations with Donors, keeping them updated about the ministry, and ideally facilitate easy donation method</p>
+    <p>Maintain relations with volunteers, keeping them updated about volunteering opportunities, invitation to volunteer events</p>
+    <p>Integrate Casenote Web App into the Phone App so that caseworkers can easily key in casenotes on the go</p>
+    <p>Main platform for caseworkers to share event photos with their youths, to facilitate a safer way of disseminating photos</p>
+    <p>Main platform for setting casework appointments with youths, and go-to place for youth-friendly web games</p>
+    <p>Efficient way of checking curfew for our youths that are in structured intervention programmes</p>
     
 
     I'll update to here first. I'll update more in the coming days of the week. Feel free to share thoughts and ideas
